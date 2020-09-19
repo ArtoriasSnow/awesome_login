@@ -1,0 +1,15 @@
+D:\repos\AwesomeLogin\AwesomeLogin\bin\Debug\netstandard2.0\AwesomeLogin.deps.json
+D:\repos\AwesomeLogin\AwesomeLogin\bin\Debug\netstandard2.0\AwesomeLogin.dll
+D:\repos\AwesomeLogin\AwesomeLogin\bin\Debug\netstandard2.0\ref\AwesomeLogin.dll
+D:\repos\AwesomeLogin\AwesomeLogin\bin\Debug\netstandard2.0\AwesomeLogin.pdb
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.csprojAssemblyReference.cache
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.AssemblyInfoInputs.cache
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.AssemblyInfo.cs
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.csproj.CoreCompileInputs.cache
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.dll
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\ref\AwesomeLogin.dll
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\AwesomeLogin.pdb
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\repos\AwesomeLogin\AwesomeLogin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs

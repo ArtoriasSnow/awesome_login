@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6y4kIy9kQtEmNA3S3Ky7gb0hRXWg5czJx8S4E+9dgVUQ098+68V9I8+kKxDpmwFBMo49REKgd6EPhW26kdCdA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\AwesomeLogin\\awesome_login\\AwesomeLogin.iOS\\AwesomeLogin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

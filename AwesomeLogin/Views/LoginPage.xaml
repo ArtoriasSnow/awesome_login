@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AwesomeLogin.LoginPage"
+             Title="Awesome Login">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="StartAndExpand" Padding="20">
+            <Label Text="Username" />
+            <Entry x:Name = "Username" Text="{Binding Username}"  
+                   HeightRequest = "40"  />
+            <Label Text="Password" />
+            <Entry x:Name = "Password" Text="{Binding Password}"  
+                   HeightRequest = "40"  
+                   IsPassword = "True"/>
+            <Button x:Name= "btnLogin" Text = "Login"   
+                    Command="{Binding LoginCommand}"  
+                    HorizontalOptions = "FillAndExpand"/>
+            <Button x:Name= "btnRememberPassword" Text = "Forgot your password?"   
+                    Command="{Binding RememberPasswordCommand}"  
+                    HorizontalOptions = "FillAndExpand"
+                    Style="{StaticResource forgotPasswordStyle}"/>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

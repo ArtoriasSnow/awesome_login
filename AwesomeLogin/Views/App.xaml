@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AwesomeLogin.App">
+    <Application.Resources>
+
+       
+
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="BackgroundColor" Value="#5C8CFB" />
+            <Setter Property="TextColor" Value="White" />
+            <Setter Property="CornerRadius" Value="5" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="TextColor" Value="#5C8CFB" />
+        </Style>
+
+        <Style TargetType="Entry">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="TextColor" Value="#5C5C5C" />
+            <Setter Property="PlaceholderColor" Value="#1976D2" />
+        </Style>
+
+
+        <Style x:Key="forgotPasswordStyle" TargetType="Button">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="BackgroundColor" Value="Transparent" />
+            <Setter Property="TextColor" Value="#5C8CFB" />
+        </Style>
+
+
+
+    </Application.Resources>
+</Application>
